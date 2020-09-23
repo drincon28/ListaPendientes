@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="todo_list_items">
+        <item>Aplicacion entrega I</item>
+        <item>Proyecto de grado</item>
+        <item>Trabajo Ing. Software</item>
+        <item>Nueva tarea I</item>
+        <item>Nueva tarea II</item>
+    </string-array>
+</resources>
